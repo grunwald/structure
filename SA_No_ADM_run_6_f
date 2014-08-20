@@ -1,0 +1,209 @@
+
+
+----------------------------------------------------
+STRUCTURE by Pritchard, Stephens and Donnelly (2000)
+     and Falush, Stephens and Pritchard (2003)
+       Code by Pritchard, Falush and Hubisz
+             Version 2.3.4 (Jul 2012)
+----------------------------------------------------
+
+
+
+Command line arguments:   bin/structure -m "/Users/maleja/Desktop/Structure/SA/SA/No_ADM/mainparams" -e "/Users/maleja/Desktop/Structure/SA/SA/No_ADM/extraparams" 
+Input File:    /Users/maleja/Desktop/Structure/SA/SA/project_data
+
+Run parameters:
+   40 individuals
+   11 loci
+   2 populations assumed
+   2500 Burn-in period
+   10000 Reps
+NO ADMIXTURE model assumed
+
+
+--------------------------------------------
+Proportion of membership of each pre-defined
+ population in each of the 2 clusters
+
+Given    Inferred Clusters       Number of
+ Pop       1      2             Individuals
+
+  1:     0.574  0.426              40
+--------------------------------------------
+
+Allele-freq. divergence among pops (Net nucleotide distance),
+computed using point estimates of P.
+
+      1       2      
+ 1      -    0.1492  
+ 2   0.1492     -    
+
+Average distances (expected heterozygosity) between individuals in same cluster:
+cluster  1  : 0.4084 
+cluster  2  : 0.4895 
+
+--------------------------------------------
+Estimated Ln Prob of Data   = -821.5
+Mean value of ln likelihood = -797.1
+Variance of ln likelihood   = 48.8
+
+Mean value of Fst_1         = 0.2401
+Mean value of Fst_2         = 0.1075
+
+
+Inferred ancestry of individuals:
+        Label (%Miss) Pop:  Inferred clusters
+  1    PiCO1   (47)    1 :  1.000 0.000 
+  2    PiCO2   (47)    1 :  1.000 0.000 
+  3    PiCO3   (47)    1 :  1.000 0.000 
+  4    PiCO4   (47)    1 :  1.000 0.000 
+  5    PiCO5   (50)    1 :  0.965 0.035 
+  6    PiEC1   (50)    1 :  1.000 0.000 
+  7   PiEC10   (47)    1 :  0.000 1.000 
+  8   PiEC11   (47)    1 :  0.000 1.000 
+  9   PiEC12   (47)    1 :  0.000 1.000 
+ 10   PiEC13   (45)    1 :  0.000 1.000 
+ 11   PiEC14   (45)    1 :  0.000 1.000 
+ 12    PiEC2   (47)    1 :  1.000 0.000 
+ 13    PiEC3   (50)    1 :  1.000 0.000 
+ 14    PiEC4   (47)    1 :  0.000 1.000 
+ 15    PiEC5   (52)    1 :  0.000 1.000 
+ 16    PiEC6   (43)    1 :  0.000 1.000 
+ 17    PiEC7   (50)    1 :  0.000 1.000 
+ 18    PiEC8   (50)    1 :  0.000 1.000 
+ 19    PiPE1   (47)    1 :  1.000 0.000 
+ 20   PiPE10   (50)    1 :  1.000 0.000 
+ 21   PiPE11   (47)    1 :  1.000 0.000 
+ 22   PiPE12   (47)    1 :  1.000 0.000 
+ 23   PiPE13   (45)    1 :  1.000 0.000 
+ 24   PiPE14   (47)    1 :  1.000 0.000 
+ 25    PiPE2   (47)    1 :  1.000 0.000 
+ 26   PiPE20   (43)    1 :  0.000 1.000 
+ 27   PiPE21   (45)    1 :  0.000 1.000 
+ 28   PiPE22   (45)    1 :  0.000 1.000 
+ 29   PiPE23   (45)    1 :  0.000 1.000 
+ 30   PiPE24   (45)    1 :  0.000 1.000 
+ 31   PiPE25   (45)    1 :  0.000 1.000 
+ 32   PiPE26   (50)    1 :  1.000 0.000 
+ 33   PiPE27   (45)    1 :  0.000 1.000 
+ 34    PiPE3   (47)    1 :  1.000 0.000 
+ 35    PiPE4   (47)    1 :  1.000 0.000 
+ 36    PiPE5   (47)    1 :  1.000 0.000 
+ 37    PiPE6   (50)    1 :  1.000 0.000 
+ 38    PiPE7   (50)    1 :  1.000 0.000 
+ 39    PiPE8   (47)    1 :  1.000 0.000 
+ 40    PiPE9   (50)    1 :  1.000 0.000 
+
+
+Estimated Allele Frequencies in each cluster
+First column gives estimated ancestral frequencies
+
+
+Locus 1 : 
+5 alleles
+49.4% missing data
+ 162   (0.209) 0.786 0.065 
+ 160   (0.563) 0.179 0.844 
+ 158   (0.075) 0.005 0.037 
+ 154   (0.076) 0.005 0.038 
+ 164   (0.076) 0.025 0.015 
+
+Locus 2 : 
+13 alleles
+46.9% missing data
+ 136   (0.139) 0.396 0.168 
+ 132   (0.053) 0.040 0.011 
+ 108   (0.091) 0.024 0.112 
+ 112   (0.049) 0.021 0.011 
+ 134   (0.087) 0.116 0.042 
+ 138   (0.071) 0.004 0.154 
+ 142   (0.120) 0.099 0.212 
+ 144   (0.091) 0.024 0.112 
+ 146   (0.084) 0.042 0.063 
+ 118   (0.051) 0.095 0.011 
+ 154   (0.057) 0.115 0.012 
+ 140   (0.060) 0.004 0.082 
+ 152   (0.048) 0.021 0.010 
+
+Locus 3 : 
+1 alleles
+50.0% missing data
+ 203   (1.000) 1.000 1.000 
+
+Locus 4 : 
+4 alleles
+50.0% missing data
+ 166   (0.374) 0.389 0.405 
+ 170   (0.451) 0.395 0.559 
+ 160   (0.085) 0.108 0.017 
+ 168   (0.090) 0.107 0.018 
+
+Locus 5 : 
+10 alleles
+41.2% missing data
+ 205   (0.074) 0.269 0.014 
+ 213   (0.264) 0.313 0.400 
+ 217   (0.205) 0.360 0.257 
+ 225   (0.056) 0.020 0.012 
+ 221   (0.067) 0.004 0.078 
+ 251   (0.056) 0.003 0.032 
+ 255   (0.065) 0.004 0.056 
+ 209   (0.071) 0.004 0.080 
+ 267   (0.057) 0.003 0.033 
+ 215   (0.084) 0.021 0.037 
+
+Locus 6 : 
+3 alleles
+50.0% missing data
+ 178   (0.608) 0.874 0.592 
+ 174   (0.078) 0.025 0.017 
+ 176   (0.314) 0.101 0.391 
+
+Locus 7 : 
+15 alleles
+43.8% missing data
+ 156   (0.110) 0.635 0.039 
+ 152   (0.086) 0.006 0.223 
+ 200   (0.095) 0.006 0.280 
+ 162   (0.077) 0.005 0.145 
+ 130   (0.061) 0.004 0.048 
+ 164   (0.059) 0.004 0.048 
+ 150   (0.044) 0.003 0.026 
+ 204   (0.051) 0.004 0.028 
+ 160   (0.091) 0.027 0.053 
+ 140   (0.061) 0.106 0.010 
+ 148   (0.057) 0.105 0.010 
+ 166   (0.064) 0.085 0.011 
+ 154   (0.050) 0.003 0.027 
+ 198   (0.052) 0.003 0.027 
+ 170   (0.044) 0.003 0.026 
+
+Locus 8 : 
+2 alleles
+50.0% missing data
+ 174   (0.245) 0.382 0.119 
+ 176   (0.755) 0.618 0.881 
+
+Locus 9 : 
+3 alleles
+41.9% missing data
+ 157   (0.543) 0.970 0.320 
+ 148   (0.216) 0.014 0.303 
+ 151   (0.241) 0.016 0.377 
+
+Locus 10 : 
+3 alleles
+50.0% missing data
+ 192   (0.703) 0.899 0.636 
+ 189   (0.202) 0.013 0.344 
+ 195   (0.095) 0.088 0.019 
+
+Locus 11 : 
+2 alleles
+51.2% missing data
+ 179   (0.683) 0.392 0.833 
+ 181   (0.317) 0.608 0.167 
+
+Values of parameters used in structure:
+DATAFILE=/Users/maleja/Desktop/Structure/SA/SA/project_data,	OUTFILE=/Users/maleja/Desktop/Structure/SA/SA/No_ADM/Results/No_ADM_run_6,	NUMINDS=40,	NUMLOCI=11,	MISSING=-9,	LABEL=1,	POPDATA=1,	POPFLAG=0,	PHENOTYPE=0,	EXTRACOLS=0,	MAXPOPS=2,	BURNIN=2500,	NUMREPS=10000,	USEPOPINFO=0,	INFERALPHA=1,	INFERLAMBDA=0,	POPSPECIFICLAMBDA=0,	POPALPHAS=0,	COMPUTEPROB=1,	NOADMIX=1,	ADMBURNIN=1250,	UPDATEFREQ=1,	PRINTLIKES=0,	INTERMEDSAVE=0,	PRINTKLD=0,	PRINTNET=0,	PRINTLAMBDA=0,	ANCESTDIST=0,	NUMBOXES=1000,	ANCESTPINT=0.90000,	GENSBACK=2,	MIGRPRIOR=0.05000,	PRINTQHAT=0,	PRINTQSUM=0,	ALPHA=1.0000,	FREQSCORR=1,	FPRIORMEAN=0.0100,	FPRIORSD=0.0500,	ONEFST=0,	LAMBDA=1.0000,	UNIFPRIORALPHA=1,	ALPHAMAX=10.0000,	ALPHAPRIORA=1.0000,	ALPHAPRIORB=2.0000,	ALPHAPROPSD=0.0500,	STARTATPOPINFO=0,	RANDOMIZE=1,	LINKAGE=0,	METROFREQ=10,	REPORTHITRATE=0,	MARKOVPHASE=-1,	PHASED=0,	PLOIDY=4,	PHASEINFO=0	LOCPRIOR=0, 	LOCPRIORINIT=1.000000, 	LOCDATA=0, 	LOCISPOP=0, 	LOCPRIORSTEP=0.100000, 	MAXLOCPRIOR=20.000000, 	SEED=1370631013,	
+[STRAT parameters]:    NUMSIMSTATS=1000,	PHENOTYPECOL=-9,	POOLFREQ=10,	LOCUSxONLY=0,	EMERROR=0.00100,	MISSINGPHENO=-9,	
