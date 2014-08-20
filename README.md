@@ -1,7 +1,7 @@
 structure
 =========
 
-With function $PlotStructure.R$ you can read and plot one STRUCTURE output file.
+With function *PlotStructure.R* you can read and plot one STRUCTURE output file.
 
 Demo files are labelled as xxx_f.
 
